@@ -46,10 +46,12 @@ coverage
 Thumbs.db
 data/
 
-# Local Project Data
+# Local Project Data (Generated Ephemerally)
 server1/instances/
 server1/uploads/
 server1/temp/
+server1/temp_hydrate/
 server1/scratch/
 server1/dist/
 web/dist/
+展
