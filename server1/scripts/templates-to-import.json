@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Modern Developer",
+    "description": "A sleek, high-performance portfolio template for modern web developers using React and Framer Motion.",
+    "techStack": ["React", "Next.js", "TailwindCSS", "Framer Motion"],
+    "domain": "Developer",
+    "gitRepoUrl": "https://github.com/Kishore-2013/minimal-portfolio-template.git",
+    "thumbUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop"
+  },
+  {
+    "name": "Creative Studio",
+    "description": "A vibrant and artistic template designed for designers, photographers, and creative studios.",
+    "techStack": ["React", "Three.js", "TailwindCSS"],
+    "domain": "Creative",
+    "gitRepoUrl": "REPLACE_WITH_YOUR_URL.git",
+    "thumbUrl": "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=2340&auto=format&fit=crop"
+  }
+]

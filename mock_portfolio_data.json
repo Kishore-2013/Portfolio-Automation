@@ -1,0 +1,70 @@
+{
+  "personal": {
+    "name": "Alex Rivers",
+    "email": "alex.rivers@example.com",
+    "phone": "+1 (555) 012-3456",
+    "location": "San Francisco, CA",
+    "linkedin": "https://linkedin.com/in/alexrivers",
+    "github": "https://github.com/alexrivers",
+    "portfolio": "https://alexrivers.dev"
+  },
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/alexrivers",
+    "github": "https://github.com/alexrivers",
+    "twitter": "https://twitter.com/alexrivers",
+    "leetcode": "https://leetcode.com/alexrivers",
+    "hackerrank": "https://hackerrank.com/alexrivers",
+    "portfolio": "https://alexrivers.dev"
+  },
+  "summary": "Full-stack engineer with 5+ years of experience building scalable web applications. Passionate about AI, distributed systems, and crafting intuitive user experiences.",
+  "targetRole": "Senior Software Engineer",
+  "skills": ["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL", "Docker", "AWS", "GraphQL", "TailwindCSS"],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "title": "Lead Frontend Engineer",
+      "company": "TechVision AI",
+      "period": "2021 - Present",
+      "bullets": "Developed a real-time analytics dashboard using Next.js and WebSockets, improving data visualization speed by 40%.\nLed a team of 5 developers to migrate a legacy codebase to a modern TypeScript-based micro-frontend architecture."
+    },
+    {
+      "id": "exp-2",
+      "title": "Full Stack Developer",
+      "company": "CloudScale Systems",
+      "period": "2018 - 2021",
+      "bullets": "Designed and implemented a serverless API using AWS Lambda and Node.js, reducing infrastructure costs by 25%.\nCollaborated with product teams to deliver high-quality features for a B2B SaaS platform with 50k+ active users."
+    }
+  ],
+  "educations": [
+    {
+      "id": "edu-1",
+      "degree": "B.S. in Computer Science",
+      "institution": "University of California, Berkeley",
+      "year": "2018",
+      "grade": "3.8 GPA"
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Portfolio Generator",
+      "description": "An automated tool that transforms PDF resumes into professional portfolio websites using GPT-4.",
+      "techStack": ["Next.js", "OpenAI", "Supabase", "TailwindCSS"],
+      "link": "https://github.com/alexrivers/portfolio-gen",
+      "imagePrompt": "Futuristic dashboard showing AI generating a website"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "link": "https://aws.amazon.com/verification"
+    }
+  ],
+  "stats": [
+    { "label": "Projects Completed", "value": "12+" },
+    { "label": "Years Experience", "value": "5" },
+    { "label": "Tech Stack", "value": "Modern" }
+  ],
+  "custom": []
+}
